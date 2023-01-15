@@ -38,5 +38,7 @@ except:
    
 finally:
 	for i in range(500): #Number of views
-            driver.get("https://www.instagram.com/reel/CKyg3-7hGiE/") #Reel link
-            time.sleep(random.randint(1,2))
+            driver.get("https://www.instagram.com/reel/CnUp-VDBPZW/?igshid=MDJmNzVkMjY==
+	) #Reel link
+            time.sleep(random.randint(1,2))1
+			
