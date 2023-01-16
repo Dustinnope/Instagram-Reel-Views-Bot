@@ -14,8 +14,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 import random
 
-username= "Dummy" #Instagram Username
-password= "Dummy@123" #Instagram Password
+username= "whois_herenow" #Instagram Username
+password= "Alexcarissa1!" #Instagram Password
 
 driver = webdriver.Chrome(executable_path="C:\\chromedriver.exe")
 driver.get("https://www.instagram.com/")
@@ -37,8 +37,7 @@ except:
    	pass
    
 finally:
-	for i in range(500): #Number of views
-            driver.get("https://www.instagram.com/reel/CnUp-VDBPZW/?igshid=MDJmNzVkMjY==
-	) #Reel link
+	for i in range(500):500 #Number of views
+            driver.get(https://www.instagram.com/reel/CnfH5AVBRDu/?igshid=YmMyMTA2M2Y=) #Reel link
             time.sleep(random.randint(1,2))1
 			
